@@ -1,0 +1,7 @@
+# C extensions
+*.so
+
+# IDE Files
+.idea/
+# Project exclude paths
+/cmake-build-debug/
