@@ -43,7 +43,6 @@ _I have started reading the following after completing this tutorial_
 - [ ] [TCP/IP Sockets in C, 2nd Edition by Michael J. Donahoo, Kenneth L. Calvert](https://www.amazon.com/TCP-IP-Sockets-Practical-Programmers/dp/0123745403)
 
 ## Future Plans for the Project
-1. -[ ] Switch this project over to datagram sockets
-2. -[ ] Fork off new Processes to handle multiple connections
-3. -[ ] Implement a fix for the zombie problem the above step will assuredly create
-4. -[ ] Complete this project by having the server take a screenshot of the current desktop environment and pass it to the client.
+1. -[ ] Fork off new Processes to handle multiple connections
+2. -[ ] Implement a fix for the zombie problem the above step will assuredly create
+3. -[ ] Complete this project by having the server take a screenshot of the current desktop environment and pass it to the client.
