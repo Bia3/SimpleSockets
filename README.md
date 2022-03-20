@@ -32,10 +32,12 @@ move the executables to a better location \
 `mv simple-socket-* [some location]`
 
 Move to the directory you placed the executables in \
+
 Run some commands \
-`./simple-socket-server 5546` _Note: if you placed the executable in PATH you do not need the proceeding ./_
-In a new terminal
-`./simple-socket-server 127.0.0.1 5546` _Note: if you placed the executable in PATH you do not need the proceeding ./_
+`./simple-socket-server 5546`  _Note: if you placed the executable in PATH you do not need the proceeding ./_
+
+In a new terminal \
+`./simple-socket-client 127.0.0.1 5546` _Note: if you placed the executable in PATH you do not need the proceeding ./_
 
 ## Further Reading
 _I have started reading the following after completing this tutorial_
