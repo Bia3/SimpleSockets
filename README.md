@@ -43,6 +43,6 @@ _I have started reading the following after completing this tutorial_
 - [ ] [TCP/IP Sockets in C, 2nd Edition by Michael J. Donahoo, Kenneth L. Calvert](https://www.amazon.com/TCP-IP-Sockets-Practical-Programmers/dp/0123745403)
 
 ## Future Plans for the Project
--[ ] Fork off new Processes to handle multiple connections
--[ ] Implement a fix for the zombie problem the above step will assuredly create
--[ ] Complete this project by having the server take a screenshot of the current desktop environment and pass it to the client.
+- [ ] Fork off new Processes to handle multiple connections
+- [ ] Implement a fix for the zombie problem the above step will assuredly create
+- [ ] Complete this project by having the server take a screenshot of the current desktop environment and pass it to the client.
