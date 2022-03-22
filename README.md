@@ -41,7 +41,7 @@ In a new terminal \
 
 ## Further Reading
 _I have started reading the following after completing this tutorial_
-- [ ] [Internetworking with TCP/IP Volume One 6th Edition](https://www.amazon.com/Internetworking-TCP-IP-One-6th/dp/013608530X/ref=pd_sbs_2/146-0905989-7407724?pd_rd_w=mzw2p&pf_rd_p=4b6b5072-e9bd-4f30-a3af-a1f5d52978ec&pf_rd_r=22N4YSEQZK3Y8ZYQCM5F&pd_rd_r=435d9b2f-a4c7-4fd6-af60-7b9c8791deaa&pd_rd_wg=c47cP&pd_rd_i=013608530X&psc=1)
+- [X] [Internetworking with TCP/IP Volume One 6th Edition](https://www.amazon.com/Internetworking-TCP-IP-One-6th/dp/013608530X/ref=pd_sbs_2/146-0905989-7407724?pd_rd_w=mzw2p&pf_rd_p=4b6b5072-e9bd-4f30-a3af-a1f5d52978ec&pf_rd_r=22N4YSEQZK3Y8ZYQCM5F&pd_rd_r=435d9b2f-a4c7-4fd6-af60-7b9c8791deaa&pd_rd_wg=c47cP&pd_rd_i=013608530X&psc=1)
 - [ ] [TCP/IP Sockets in C, 2nd Edition by Michael J. Donahoo, Kenneth L. Calvert](https://www.amazon.com/TCP-IP-Sockets-Practical-Programmers/dp/0123745403)
 
 ## Future Plans for the Project
